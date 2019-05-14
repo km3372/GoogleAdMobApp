@@ -1,0 +1,699 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "14GoogleAdMobApp14ViewControllerC"
+provides-member:
+- ["14GoogleAdMobApp14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "bannerView"
+- "interstitialDidDismissScreen"
+- "showBanner"
+- "showInterstitial"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- "GADBannerView"
+- "GADInterstitial"
+- "GADInterstitialDelegate"
+- !private "GADRequest"
+- !private "StringLiteralType"
+- "UIViewController"
+- "ViewController"
+- !private "kGADSimulatorID"
+depends-member:
+- !private ["So15CALayerDelegateP", "adUnitID"]
+- !private ["So15CALayerDelegateP", "load"]
+- !private ["So15CALayerDelegateP", "rootViewController"]
+- !private ["s7CVarArgP", "GADInterstitial"]
+- !private ["s7CVarArgP", "GADRequest"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "adUnitID"]
+- !private ["s7CVarArgP", "bannerView"]
+- !private ["s7CVarArgP", "createInterstitial"]
+- !private ["s7CVarArgP", "delegate"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "interstitial"]
+- ["s7CVarArgP", "interstitialDidDismissScreen"]
+- ["s7CVarArgP", "interstitialDidFail"]
+- ["s7CVarArgP", "interstitialDidFailToPresentScreen"]
+- ["s7CVarArgP", "interstitialDidReceiveAd"]
+- ["s7CVarArgP", "interstitialWillDismissScreen"]
+- ["s7CVarArgP", "interstitialWillLeaveApplication"]
+- ["s7CVarArgP", "interstitialWillPresentScreen"]
+- !private ["s7CVarArgP", "isReady"]
+- !private ["s7CVarArgP", "kGADSimulatorID"]
+- !private ["s7CVarArgP", "load"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "rootViewController"]
+- !private ["s7CVarArgP", "testDevices"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "GADInterstitial"]
+- !private ["s28CustomDebugStringConvertibleP", "GADRequest"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "adUnitID"]
+- !private ["s28CustomDebugStringConvertibleP", "bannerView"]
+- !private ["s28CustomDebugStringConvertibleP", "createInterstitial"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "interstitial"]
+- ["s28CustomDebugStringConvertibleP", "interstitialDidDismissScreen"]
+- ["s28CustomDebugStringConvertibleP", "interstitialDidFail"]
+- ["s28CustomDebugStringConvertibleP", "interstitialDidFailToPresentScreen"]
+- ["s28CustomDebugStringConvertibleP", "interstitialDidReceiveAd"]
+- ["s28CustomDebugStringConvertibleP", "interstitialWillDismissScreen"]
+- ["s28CustomDebugStringConvertibleP", "interstitialWillLeaveApplication"]
+- ["s28CustomDebugStringConvertibleP", "interstitialWillPresentScreen"]
+- !private ["s28CustomDebugStringConvertibleP", "isReady"]
+- !private ["s28CustomDebugStringConvertibleP", "kGADSimulatorID"]
+- !private ["s28CustomDebugStringConvertibleP", "load"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "rootViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "testDevices"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "adUnitID"]
+- !private ["s17CustomReflectableP", "delegate"]
+- !private ["s17CustomReflectableP", "isReady"]
+- !private ["s17CustomReflectableP", "load"]
+- !private ["s17CustomReflectableP", "present"]
+- !private ["s17CustomReflectableP", "rootViewController"]
+- !private ["s23CustomStringConvertibleP", "GADInterstitial"]
+- !private ["s23CustomStringConvertibleP", "GADRequest"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "adUnitID"]
+- !private ["s23CustomStringConvertibleP", "bannerView"]
+- !private ["s23CustomStringConvertibleP", "createInterstitial"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "interstitial"]
+- ["s23CustomStringConvertibleP", "interstitialDidDismissScreen"]
+- ["s23CustomStringConvertibleP", "interstitialDidFail"]
+- ["s23CustomStringConvertibleP", "interstitialDidFailToPresentScreen"]
+- ["s23CustomStringConvertibleP", "interstitialDidReceiveAd"]
+- ["s23CustomStringConvertibleP", "interstitialWillDismissScreen"]
+- ["s23CustomStringConvertibleP", "interstitialWillLeaveApplication"]
+- ["s23CustomStringConvertibleP", "interstitialWillPresentScreen"]
+- !private ["s23CustomStringConvertibleP", "isReady"]
+- !private ["s23CustomStringConvertibleP", "kGADSimulatorID"]
+- !private ["s23CustomStringConvertibleP", "load"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "rootViewController"]
+- !private ["s23CustomStringConvertibleP", "testDevices"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "adUnitID"]
+- !private ["Se", "delegate"]
+- !private ["Se", "isReady"]
+- !private ["Se", "load"]
+- !private ["Se", "present"]
+- !private ["Se", "rootViewController"]
+- !private ["SE", "adUnitID"]
+- !private ["SE", "delegate"]
+- !private ["SE", "isReady"]
+- !private ["SE", "load"]
+- !private ["SE", "present"]
+- !private ["SE", "rootViewController"]
+- !private ["SQ", "GADInterstitial"]
+- !private ["SQ", "GADRequest"]
+- ["SQ", ""]
+- !private ["SQ", "adUnitID"]
+- !private ["SQ", "bannerView"]
+- !private ["SQ", "createInterstitial"]
+- !private ["SQ", "delegate"]
+- !private ["SQ", "init"]
+- ["SQ", "interstitial"]
+- ["SQ", "interstitialDidDismissScreen"]
+- ["SQ", "interstitialDidFail"]
+- ["SQ", "interstitialDidFailToPresentScreen"]
+- ["SQ", "interstitialDidReceiveAd"]
+- ["SQ", "interstitialWillDismissScreen"]
+- ["SQ", "interstitialWillLeaveApplication"]
+- ["SQ", "interstitialWillPresentScreen"]
+- !private ["SQ", "isReady"]
+- !private ["SQ", "kGADSimulatorID"]
+- !private ["SQ", "load"]
+- !private ["SQ", "present"]
+- !private ["SQ", "rootViewController"]
+- !private ["SQ", "testDevices"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "adUnitID"]
+- !private ["s23ExpressibleByNilLiteralP", "delegate"]
+- !private ["s23ExpressibleByNilLiteralP", "isReady"]
+- !private ["s23ExpressibleByNilLiteralP", "load"]
+- !private ["s23ExpressibleByNilLiteralP", "present"]
+- !private ["s23ExpressibleByNilLiteralP", "rootViewController"]
+- !private ["So13GADBannerViewC", "adUnitID"]
+- !private ["So13GADBannerViewC", "load"]
+- !private ["So13GADBannerViewC", "rootViewController"]
+- !private ["So15GADInterstitialC", "delegate"]
+- !private ["So15GADInterstitialC", "init"]
+- !private ["So15GADInterstitialC", "isReady"]
+- !private ["So15GADInterstitialC", "load"]
+- !private ["So15GADInterstitialC", "present"]
+- !private ["So23GADInterstitialDelegateP", "GADInterstitial"]
+- !private ["So23GADInterstitialDelegateP", "GADRequest"]
+- ["So23GADInterstitialDelegateP", ""]
+- !private ["So23GADInterstitialDelegateP", "bannerView"]
+- !private ["So23GADInterstitialDelegateP", "createInterstitial"]
+- ["So23GADInterstitialDelegateP", "interstitial"]
+- ["So23GADInterstitialDelegateP", "interstitialDidDismissScreen"]
+- ["So23GADInterstitialDelegateP", "interstitialDidFail"]
+- ["So23GADInterstitialDelegateP", "interstitialDidFailToPresentScreen"]
+- ["So23GADInterstitialDelegateP", "interstitialDidReceiveAd"]
+- ["So23GADInterstitialDelegateP", "interstitialWillDismissScreen"]
+- ["So23GADInterstitialDelegateP", "interstitialWillLeaveApplication"]
+- ["So23GADInterstitialDelegateP", "interstitialWillPresentScreen"]
+- !private ["So23GADInterstitialDelegateP", "kGADSimulatorID"]
+- !private ["So10GADRequestC", "init"]
+- !private ["So10GADRequestC", "testDevices"]
+- !private ["SH", "GADInterstitial"]
+- !private ["SH", "GADRequest"]
+- ["SH", ""]
+- !private ["SH", "adUnitID"]
+- !private ["SH", "bannerView"]
+- !private ["SH", "createInterstitial"]
+- !private ["SH", "delegate"]
+- !private ["SH", "init"]
+- ["SH", "interstitial"]
+- ["SH", "interstitialDidDismissScreen"]
+- ["SH", "interstitialDidFail"]
+- ["SH", "interstitialDidFailToPresentScreen"]
+- ["SH", "interstitialDidReceiveAd"]
+- ["SH", "interstitialWillDismissScreen"]
+- ["SH", "interstitialWillLeaveApplication"]
+- ["SH", "interstitialWillPresentScreen"]
+- !private ["SH", "isReady"]
+- !private ["SH", "kGADSimulatorID"]
+- !private ["SH", "load"]
+- !private ["SH", "present"]
+- !private ["SH", "rootViewController"]
+- !private ["SH", "testDevices"]
+- !private ["SH", "viewDidLoad"]
+- !private ["So8NSCodingP", "GADInterstitial"]
+- !private ["So8NSCodingP", "GADRequest"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "adUnitID"]
+- !private ["So8NSCodingP", "bannerView"]
+- !private ["So8NSCodingP", "createInterstitial"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "interstitial"]
+- ["So8NSCodingP", "interstitialDidDismissScreen"]
+- ["So8NSCodingP", "interstitialDidFail"]
+- ["So8NSCodingP", "interstitialDidFailToPresentScreen"]
+- ["So8NSCodingP", "interstitialDidReceiveAd"]
+- ["So8NSCodingP", "interstitialWillDismissScreen"]
+- ["So8NSCodingP", "interstitialWillLeaveApplication"]
+- ["So8NSCodingP", "interstitialWillPresentScreen"]
+- !private ["So8NSCodingP", "kGADSimulatorID"]
+- !private ["So8NSCodingP", "load"]
+- !private ["So8NSCodingP", "rootViewController"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "testDevices"]
+- !private ["So26NSExtensionRequestHandlingP", "GADInterstitial"]
+- !private ["So26NSExtensionRequestHandlingP", "GADRequest"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "bannerView"]
+- !private ["So26NSExtensionRequestHandlingP", "createInterstitial"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "interstitial"]
+- ["So26NSExtensionRequestHandlingP", "interstitialDidDismissScreen"]
+- ["So26NSExtensionRequestHandlingP", "interstitialDidFail"]
+- ["So26NSExtensionRequestHandlingP", "interstitialDidFailToPresentScreen"]
+- ["So26NSExtensionRequestHandlingP", "interstitialDidReceiveAd"]
+- ["So26NSExtensionRequestHandlingP", "interstitialWillDismissScreen"]
+- ["So26NSExtensionRequestHandlingP", "interstitialWillLeaveApplication"]
+- ["So26NSExtensionRequestHandlingP", "interstitialWillPresentScreen"]
+- !private ["So26NSExtensionRequestHandlingP", "kGADSimulatorID"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "GADBannerView"]
+- ["So8NSObjectC", "GADInterstitial"]
+- !private ["So8NSObjectC", "GADRequest"]
+- !private ["So8NSObjectC", "adUnitID"]
+- ["So8NSObjectC", "bannerView"]
+- ["So8NSObjectC", "createInterstitial"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "interstitial"]
+- ["So8NSObjectC", "interstitialDidDismissScreen"]
+- ["So8NSObjectC", "interstitialDidFail"]
+- ["So8NSObjectC", "interstitialDidFailToPresentScreen"]
+- ["So8NSObjectC", "interstitialDidReceiveAd"]
+- ["So8NSObjectC", "interstitialWillDismissScreen"]
+- ["So8NSObjectC", "interstitialWillLeaveApplication"]
+- ["So8NSObjectC", "interstitialWillPresentScreen"]
+- !private ["So8NSObjectC", "isReady"]
+- !private ["So8NSObjectC", "kGADSimulatorID"]
+- !private ["So8NSObjectC", "load"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "rootViewController"]
+- ["So8NSObjectC", "showBanner"]
+- ["So8NSObjectC", "showInterstitial"]
+- !private ["So8NSObjectC", "testDevices"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "GADInterstitial"]
+- !private ["So8NSObjectP", "GADRequest"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "adUnitID"]
+- !private ["So8NSObjectP", "bannerView"]
+- !private ["So8NSObjectP", "createInterstitial"]
+- !private ["So8NSObjectP", "delegate"]
+- !private ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "interstitial"]
+- ["So8NSObjectP", "interstitialDidDismissScreen"]
+- ["So8NSObjectP", "interstitialDidFail"]
+- ["So8NSObjectP", "interstitialDidFailToPresentScreen"]
+- ["So8NSObjectP", "interstitialDidReceiveAd"]
+- ["So8NSObjectP", "interstitialWillDismissScreen"]
+- ["So8NSObjectP", "interstitialWillLeaveApplication"]
+- ["So8NSObjectP", "interstitialWillPresentScreen"]
+- !private ["So8NSObjectP", "isReady"]
+- !private ["So8NSObjectP", "kGADSimulatorID"]
+- !private ["So8NSObjectP", "load"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "rootViewController"]
+- !private ["So8NSObjectP", "testDevices"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "adUnitID"]
+- !private ["Sq", "delegate"]
+- !private ["Sq", "isReady"]
+- !private ["Sq", "load"]
+- !private ["Sq", "present"]
+- !private ["Sq", "rootViewController"]
+- !private ["So29UIAccessibilityIdentificationP", "adUnitID"]
+- !private ["So29UIAccessibilityIdentificationP", "load"]
+- !private ["So29UIAccessibilityIdentificationP", "rootViewController"]
+- !private ["So12UIAppearanceP", "adUnitID"]
+- !private ["So12UIAppearanceP", "load"]
+- !private ["So12UIAppearanceP", "rootViewController"]
+- !private ["So21UIAppearanceContainerP", "GADInterstitial"]
+- !private ["So21UIAppearanceContainerP", "GADRequest"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "adUnitID"]
+- !private ["So21UIAppearanceContainerP", "bannerView"]
+- !private ["So21UIAppearanceContainerP", "createInterstitial"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "interstitial"]
+- ["So21UIAppearanceContainerP", "interstitialDidDismissScreen"]
+- ["So21UIAppearanceContainerP", "interstitialDidFail"]
+- ["So21UIAppearanceContainerP", "interstitialDidFailToPresentScreen"]
+- ["So21UIAppearanceContainerP", "interstitialDidReceiveAd"]
+- ["So21UIAppearanceContainerP", "interstitialWillDismissScreen"]
+- ["So21UIAppearanceContainerP", "interstitialWillLeaveApplication"]
+- ["So21UIAppearanceContainerP", "interstitialWillPresentScreen"]
+- !private ["So21UIAppearanceContainerP", "kGADSimulatorID"]
+- !private ["So21UIAppearanceContainerP", "load"]
+- !private ["So21UIAppearanceContainerP", "rootViewController"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "GADInterstitial"]
+- !private ["So18UIContentContainerP", "GADRequest"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "bannerView"]
+- !private ["So18UIContentContainerP", "createInterstitial"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "interstitial"]
+- ["So18UIContentContainerP", "interstitialDidDismissScreen"]
+- ["So18UIContentContainerP", "interstitialDidFail"]
+- ["So18UIContentContainerP", "interstitialDidFailToPresentScreen"]
+- ["So18UIContentContainerP", "interstitialDidReceiveAd"]
+- ["So18UIContentContainerP", "interstitialWillDismissScreen"]
+- ["So18UIContentContainerP", "interstitialWillLeaveApplication"]
+- ["So18UIContentContainerP", "interstitialWillPresentScreen"]
+- !private ["So18UIContentContainerP", "kGADSimulatorID"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "adUnitID"]
+- !private ["So17UICoordinateSpaceP", "load"]
+- !private ["So17UICoordinateSpaceP", "rootViewController"]
+- !private ["So13UIDynamicItemP", "adUnitID"]
+- !private ["So13UIDynamicItemP", "load"]
+- !private ["So13UIDynamicItemP", "rootViewController"]
+- !private ["So18UIFocusEnvironmentP", "GADInterstitial"]
+- !private ["So18UIFocusEnvironmentP", "GADRequest"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "adUnitID"]
+- !private ["So18UIFocusEnvironmentP", "bannerView"]
+- !private ["So18UIFocusEnvironmentP", "createInterstitial"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "interstitial"]
+- ["So18UIFocusEnvironmentP", "interstitialDidDismissScreen"]
+- ["So18UIFocusEnvironmentP", "interstitialDidFail"]
+- ["So18UIFocusEnvironmentP", "interstitialDidFailToPresentScreen"]
+- ["So18UIFocusEnvironmentP", "interstitialDidReceiveAd"]
+- ["So18UIFocusEnvironmentP", "interstitialWillDismissScreen"]
+- ["So18UIFocusEnvironmentP", "interstitialWillLeaveApplication"]
+- ["So18UIFocusEnvironmentP", "interstitialWillPresentScreen"]
+- !private ["So18UIFocusEnvironmentP", "kGADSimulatorID"]
+- !private ["So18UIFocusEnvironmentP", "load"]
+- !private ["So18UIFocusEnvironmentP", "rootViewController"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "adUnitID"]
+- !private ["So11UIFocusItemP", "load"]
+- !private ["So11UIFocusItemP", "rootViewController"]
+- !private ["So20UIFocusItemContainerP", "adUnitID"]
+- !private ["So20UIFocusItemContainerP", "load"]
+- !private ["So20UIFocusItemContainerP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "GADInterstitial"]
+- !private ["So30UIPasteConfigurationSupportingP", "GADRequest"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "adUnitID"]
+- !private ["So30UIPasteConfigurationSupportingP", "bannerView"]
+- !private ["So30UIPasteConfigurationSupportingP", "createInterstitial"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "interstitial"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialDidDismissScreen"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialDidFail"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialDidFailToPresentScreen"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialDidReceiveAd"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialWillDismissScreen"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialWillLeaveApplication"]
+- ["So30UIPasteConfigurationSupportingP", "interstitialWillPresentScreen"]
+- !private ["So30UIPasteConfigurationSupportingP", "kGADSimulatorID"]
+- !private ["So30UIPasteConfigurationSupportingP", "load"]
+- !private ["So30UIPasteConfigurationSupportingP", "rootViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "GADBannerView"]
+- ["So11UIResponderC", "GADInterstitial"]
+- !private ["So11UIResponderC", "GADRequest"]
+- !private ["So11UIResponderC", "adUnitID"]
+- ["So11UIResponderC", "bannerView"]
+- ["So11UIResponderC", "createInterstitial"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "interstitial"]
+- ["So11UIResponderC", "interstitialDidDismissScreen"]
+- ["So11UIResponderC", "interstitialDidFail"]
+- ["So11UIResponderC", "interstitialDidFailToPresentScreen"]
+- ["So11UIResponderC", "interstitialDidReceiveAd"]
+- ["So11UIResponderC", "interstitialWillDismissScreen"]
+- ["So11UIResponderC", "interstitialWillLeaveApplication"]
+- ["So11UIResponderC", "interstitialWillPresentScreen"]
+- !private ["So11UIResponderC", "kGADSimulatorID"]
+- !private ["So11UIResponderC", "load"]
+- !private ["So11UIResponderC", "rootViewController"]
+- ["So11UIResponderC", "showBanner"]
+- ["So11UIResponderC", "showInterstitial"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "GADInterstitial"]
+- !private ["So30UIResponderStandardEditActionsP", "GADRequest"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "adUnitID"]
+- !private ["So30UIResponderStandardEditActionsP", "bannerView"]
+- !private ["So30UIResponderStandardEditActionsP", "createInterstitial"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "interstitial"]
+- ["So30UIResponderStandardEditActionsP", "interstitialDidDismissScreen"]
+- ["So30UIResponderStandardEditActionsP", "interstitialDidFail"]
+- ["So30UIResponderStandardEditActionsP", "interstitialDidFailToPresentScreen"]
+- ["So30UIResponderStandardEditActionsP", "interstitialDidReceiveAd"]
+- ["So30UIResponderStandardEditActionsP", "interstitialWillDismissScreen"]
+- ["So30UIResponderStandardEditActionsP", "interstitialWillLeaveApplication"]
+- ["So30UIResponderStandardEditActionsP", "interstitialWillPresentScreen"]
+- !private ["So30UIResponderStandardEditActionsP", "kGADSimulatorID"]
+- !private ["So30UIResponderStandardEditActionsP", "load"]
+- !private ["So30UIResponderStandardEditActionsP", "rootViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "GADInterstitial"]
+- !private ["So16UIStateRestoringP", "GADRequest"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "bannerView"]
+- !private ["So16UIStateRestoringP", "createInterstitial"]
+- !private ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "interstitial"]
+- ["So16UIStateRestoringP", "interstitialDidDismissScreen"]
+- ["So16UIStateRestoringP", "interstitialDidFail"]
+- ["So16UIStateRestoringP", "interstitialDidFailToPresentScreen"]
+- ["So16UIStateRestoringP", "interstitialDidReceiveAd"]
+- ["So16UIStateRestoringP", "interstitialWillDismissScreen"]
+- ["So16UIStateRestoringP", "interstitialWillLeaveApplication"]
+- ["So16UIStateRestoringP", "interstitialWillPresentScreen"]
+- !private ["So16UIStateRestoringP", "kGADSimulatorID"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "GADInterstitial"]
+- !private ["So18UITraitEnvironmentP", "GADRequest"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "adUnitID"]
+- !private ["So18UITraitEnvironmentP", "bannerView"]
+- !private ["So18UITraitEnvironmentP", "createInterstitial"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "interstitial"]
+- ["So18UITraitEnvironmentP", "interstitialDidDismissScreen"]
+- ["So18UITraitEnvironmentP", "interstitialDidFail"]
+- ["So18UITraitEnvironmentP", "interstitialDidFailToPresentScreen"]
+- ["So18UITraitEnvironmentP", "interstitialDidReceiveAd"]
+- ["So18UITraitEnvironmentP", "interstitialWillDismissScreen"]
+- ["So18UITraitEnvironmentP", "interstitialWillLeaveApplication"]
+- ["So18UITraitEnvironmentP", "interstitialWillPresentScreen"]
+- !private ["So18UITraitEnvironmentP", "kGADSimulatorID"]
+- !private ["So18UITraitEnvironmentP", "load"]
+- !private ["So18UITraitEnvironmentP", "rootViewController"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "GADInterstitial"]
+- !private ["So23UIUserActivityRestoringP", "GADRequest"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "adUnitID"]
+- !private ["So23UIUserActivityRestoringP", "bannerView"]
+- !private ["So23UIUserActivityRestoringP", "createInterstitial"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "interstitial"]
+- ["So23UIUserActivityRestoringP", "interstitialDidDismissScreen"]
+- ["So23UIUserActivityRestoringP", "interstitialDidFail"]
+- ["So23UIUserActivityRestoringP", "interstitialDidFailToPresentScreen"]
+- ["So23UIUserActivityRestoringP", "interstitialDidReceiveAd"]
+- ["So23UIUserActivityRestoringP", "interstitialWillDismissScreen"]
+- ["So23UIUserActivityRestoringP", "interstitialWillLeaveApplication"]
+- ["So23UIUserActivityRestoringP", "interstitialWillPresentScreen"]
+- !private ["So23UIUserActivityRestoringP", "kGADSimulatorID"]
+- !private ["So23UIUserActivityRestoringP", "load"]
+- !private ["So23UIUserActivityRestoringP", "rootViewController"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "adUnitID"]
+- !private ["So6UIViewC", "load"]
+- !private ["So6UIViewC", "rootViewController"]
+- ["So16UIViewControllerC", "GADBannerView"]
+- ["So16UIViewControllerC", "GADInterstitial"]
+- !private ["So16UIViewControllerC", "GADRequest"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "bannerView"]
+- ["So16UIViewControllerC", "createInterstitial"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "interstitial"]
+- ["So16UIViewControllerC", "interstitialDidDismissScreen"]
+- ["So16UIViewControllerC", "interstitialDidFail"]
+- ["So16UIViewControllerC", "interstitialDidFailToPresentScreen"]
+- ["So16UIViewControllerC", "interstitialDidReceiveAd"]
+- ["So16UIViewControllerC", "interstitialWillDismissScreen"]
+- ["So16UIViewControllerC", "interstitialWillLeaveApplication"]
+- ["So16UIViewControllerC", "interstitialWillPresentScreen"]
+- !private ["So16UIViewControllerC", "kGADSimulatorID"]
+- ["So16UIViewControllerC", "showBanner"]
+- ["So16UIViewControllerC", "showInterstitial"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["14GoogleAdMobApp14ViewControllerC", "GADBannerView"]
+- ["14GoogleAdMobApp14ViewControllerC", "GADInterstitial"]
+- !private ["14GoogleAdMobApp14ViewControllerC", "GADRequest"]
+- ["14GoogleAdMobApp14ViewControllerC", "bannerView"]
+- ["14GoogleAdMobApp14ViewControllerC", "createInterstitial"]
+- ["14GoogleAdMobApp14ViewControllerC", "deinit"]
+- ["14GoogleAdMobApp14ViewControllerC", "init"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitial"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialDidDismissScreen"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialDidFail"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialDidFailToPresentScreen"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialDidReceiveAd"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialWillDismissScreen"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialWillLeaveApplication"]
+- ["14GoogleAdMobApp14ViewControllerC", "interstitialWillPresentScreen"]
+- !private ["14GoogleAdMobApp14ViewControllerC", "kGADSimulatorID"]
+- ["14GoogleAdMobApp14ViewControllerC", "showBanner"]
+- ["14GoogleAdMobApp14ViewControllerC", "showInterstitial"]
+- ["14GoogleAdMobApp14ViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GADInterstitial"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GADRequest"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "adUnitID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bannerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "createInterstitial"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitial"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialDidDismissScreen"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialDidFail"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialDidFailToPresentScreen"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialDidReceiveAd"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialWillDismissScreen"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialWillLeaveApplication"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "interstitialWillPresentScreen"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isReady"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kGADSimulatorID"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "load"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "rootViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "testDevices"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "adUnitID"]
+- !private ["s21_ObjectiveCBridgeableP", "delegate"]
+- !private ["s21_ObjectiveCBridgeableP", "isReady"]
+- !private ["s21_ObjectiveCBridgeableP", "load"]
+- !private ["s21_ObjectiveCBridgeableP", "present"]
+- !private ["s21_ObjectiveCBridgeableP", "rootViewController"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "adUnitID"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "load"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "rootViewController"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "So13GADBannerViewC"
+- !private "So15GADInterstitialC"
+- "So23GADInterstitialDelegateP"
+- !private "So10GADRequestC"
+- "SH"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "14GoogleAdMobApp14ViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeCustomTemplateAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedUnifiedNativeAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAppInstallAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeContentAd.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdReward.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedUnifiedNativeAdNotificationSource.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAdNotificationSource.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAd+CustomClickGesture.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchase.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAdDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediatedNativeAdDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventNativeAdDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRewardBasedVideoAdDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInAppPurchaseDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSizeDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAdUnconfirmedClickDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitialDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedInterstitialDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitialDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManagerDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoControllerDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBannerDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAppEventDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdViewDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerViewDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPCustomRenderedBannerViewDelegate.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdSize.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdSize.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAd+ConfirmationClick.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADInterstitial.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPInterstitial.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventInterstitial.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkAdapterProtocol.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkAdapterProtocol.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMAdNetworkConnectorProtocol.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMRewardBasedVideoAdNetworkConnectorProtocol.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImage+Mediation.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestConfiguration.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMuteThisAdReason.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoader.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAudioVideoManager.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoController.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDebugOptionsViewController.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventBanner.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequestError.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelator.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAppInstallAdAssetIDs.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeContentAdAssetIDs.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADExtras.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdNetworkExtras.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventExtras.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMobileAds.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAds.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GoogleMobileAdsDefines.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdLoaderAdTypes.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMEnums.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdViewAdOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADVideoOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeAdImageAdLoaderOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCorrelatorAdLoaderOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMultipleAdsAdLoaderOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeMuteThisAdLoaderOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerViewOptions.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADUnifiedNativeAdAssetIdentifiers.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventParameters.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaContent.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADRequest.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPRequest.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/Mediation/GADMediationAdRequest.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchRequest.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADDynamicHeightSearchRequest.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADCustomEventRequest.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADMediaView.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADNativeExpressAdView.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADBannerView.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/DFPBannerView.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADSearchBannerView.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Headers/GADAdChoicesView.h"
+- "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/Pods/Google-Mobile-Ads-SDK/Frameworks/frameworks/GoogleMobileAds.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/StoreKit.framework/Headers/StoreKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "07f5c3709c80822105a425b46b3dd223"

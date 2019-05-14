@@ -5,7 +5,60 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>27D63A62-3C94-4155-8D04-C0E1FBADA3E8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.framework</string>
+			<key>fileName</key>
+			<string>27D63A62-3C94-4155-8D04-C0E1FBADA3E8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Pods-GoogleAdMobApp-evlfylzzniwkmzeaulwdmojsqydp</string>
+			<key>timeStartedRecording</key>
+			<real>579539561.22792101</real>
+			<key>timeStoppedRecording</key>
+			<real>579539561.31871796</real>
+			<key>title</key>
+			<string>Build target Pods-GoogleAdMobApp</string>
+			<key>uniqueIdentifier</key>
+			<string>27D63A62-3C94-4155-8D04-C0E1FBADA3E8</string>
+		</dict>
+		<key>746C3DC6-8FEA-4F0C-9EF9-07872F28E532</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>746C3DC6-8FEA-4F0C-9EF9-07872F28E532.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>GoogleAdMobApp-ehowkgnesnqbtrdbrquctzlndoje</string>
+			<key>timeStartedRecording</key>
+			<real>579539561.226331</real>
+			<key>timeStoppedRecording</key>
+			<real>579539564.06535494</real>
+			<key>title</key>
+			<string>Build target GoogleAdMobApp</string>
+			<key>uniqueIdentifier</key>
+			<string>746C3DC6-8FEA-4F0C-9EF9-07872F28E532</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "4954318dc6028407aa47aea804fe29d2"
+build_time: [1557846761, 335315000]
+inputs:
+  "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/GoogleAdMobApp/ViewController.swift": [1557846745, 575100956]
+  "/Users/kennethmoody/Desktop/iOS projects/GoogleAdMobApp/GoogleAdMobApp/AppDelegate.swift": [1557844614, 185626280]

@@ -5,6 +5,135 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>07AA7C5F-BB31-4F5A-BF9F-472C3138630C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>07AA7C5F-BB31-4F5A-BF9F-472C3138630C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleAdMobApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleAdMobApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>timeStartedRecording</key>
+			<real>579537416.13877797</real>
+			<key>timeStoppedRecording</key>
+			<real>579537623.15318203</real>
+			<key>title</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>uniqueIdentifier</key>
+			<string>07AA7C5F-BB31-4F5A-BF9F-472C3138630C</string>
+		</dict>
+		<key>7E66A47F-F1D2-43BE-9A0E-9EC9C64C91CB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7E66A47F-F1D2-43BE-9A0E-9EC9C64C91CB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleAdMobApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleAdMobApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>timeStartedRecording</key>
+			<real>579539002.90820897</real>
+			<key>timeStoppedRecording</key>
+			<real>579539039.05941796</real>
+			<key>title</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7E66A47F-F1D2-43BE-9A0E-9EC9C64C91CB</string>
+		</dict>
+		<key>98A713C7-7F7A-483A-9006-C419808E24B8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>98A713C7-7F7A-483A-9006-C419808E24B8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleAdMobApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleAdMobApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>timeStartedRecording</key>
+			<real>579538896.87318099</real>
+			<key>timeStoppedRecording</key>
+			<real>579539000.48335195</real>
+			<key>title</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>uniqueIdentifier</key>
+			<string>98A713C7-7F7A-483A-9006-C419808E24B8</string>
+		</dict>
+		<key>9D7E4B79-F827-4DF0-A7E7-F225402906BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D7E4B79-F827-4DF0-A7E7-F225402906BC.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GoogleAdMobApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GoogleAdMobApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>timeStartedRecording</key>
+			<real>579537900.41242504</real>
+			<key>timeStoppedRecording</key>
+			<real>579538366.70434201</real>
+			<key>title</key>
+			<string>Debug GoogleAdMobApp</string>
+			<key>uniqueIdentifier</key>
+			<string>9D7E4B79-F827-4DF0-A7E7-F225402906BC</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
